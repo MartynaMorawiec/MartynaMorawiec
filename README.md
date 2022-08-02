@@ -10,7 +10,11 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass)
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
 <!---
 MartynaMorawiec/MartynaMorawiec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
