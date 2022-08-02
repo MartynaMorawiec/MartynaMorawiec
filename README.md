@@ -4,7 +4,7 @@
 📫 How to reach me: **martyna.jasinska1@gmail.com**
 <p>🤝 Connect with me:<p/>
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/martynamorawiec/ target="_blank">
+  <a href="https://www.linkedin.com/in/martynamorawiec/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
